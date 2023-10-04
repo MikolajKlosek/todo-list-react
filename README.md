@@ -5,6 +5,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Technologies
+-ES6
+-BEM
+-HTML5
+-CSS3
+-JavaScript
+-React
+
 ## Available Scripts
 
 In the project directory, you can run:
