@@ -5,6 +5,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Description
+I would like to introduce You to my small project regarding creating a simple list of tasks to do. On this site you can add new tasks to your list. Next you can mark which are done, and then remove them permanently from the list. This is my second time doing this project, but now with React framework.
+
+Here is a quick pic how it works:
+![Pic](https://github.com/MikolajKlosek/To-Do-List/blob/main/images/todolist.png)
+
 ## Technologies
 - ES6
 - BEM
