@@ -30,7 +30,7 @@ function App() {
       return task
     }));
   }
-
+//komentarz
   const setAllDone = () => {
     setTasks(tasks => tasks.map(task => ({
       ...task,
